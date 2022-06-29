@@ -1,0 +1,15 @@
+<widget>
+<category>lifestyle</category>
+<autoUpdate>y</autoUpdate>
+<cpname>Skype</cpname>
+<login>n</login>
+<ver>2.120601</ver>y
+<mgrver>2.305</mgrver>
+<emp>empSkype::empCamera</emp>
+<fullwidget>y</fullwidget>
+<widgetname>Skype</widgetname>
+<description>Skype application</description> <runTitle>Skype</runTitle>
+<author>
+<name>Samsung Electronics Co. Ltd.</name> <link>http://www.sec.co.kr/</link>
+<organization>Samsung Electronics Co. Ltd.</organization> </author>
+</widget>
